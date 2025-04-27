@@ -38,7 +38,7 @@ https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 
 #EXTINF:-1 tvg-name="CNN Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_CNNTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500" group-title="Haber",CNN Türk
 https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
-# ? http://stream.tvcdn.net/haber/cnn-turk.m3u8
+# ? https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?=&live=true&app=com.cnnturk&st=L3FmpahhUh_SSBusCpSF6g&e=1745804808
 
 #EXTINF:-1 tvg-name="NTV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_NTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264" group-title="Haber",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
@@ -117,7 +117,7 @@ https://trkvz-live.daioncdn.net/atv/atv.m3u8
 # ? https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
 #EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_FoxTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1920px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Genel",Now TV
-http://stream.tvcdn.net/ulusal/now-tv.m3u8
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1745851817&st=LBWBftiul_Xq-ggup_bgXg
 
 #EXTINF:-1 tvg-name="Show TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ShowTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="Genel",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
@@ -199,7 +199,7 @@ https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_CartoonNetwork" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png" group-title="ÇizgiFilm",Cartoon Network
-https://cdn405.canlitv.direct/cartoon.m3u8?tkn=Z6FzP0sF8SiD3BKItXJ3Dw&tms=1745806237&hst=m.canlitv.direct&ip=192.168.1.43
+https://cdn405.canlitv.direct/cartoon.m3u8?tkn=Z6FzP0sF8SiD3BKItXJ3Dw&tms=1745806237&hst=m.canlitv.direct&ip=192.168.42.88
 
 #EXTINF:-1 tvg-name="MinikaGo" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_MinikaGo" tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png" group-title="ÇizgiFilm",MinikaGo
 http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
