@@ -198,7 +198,7 @@ https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_CartoonNetwork" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png" group-title="ÇizgiFilm",Cartoon Network
-https://cdn405.canlitv.direct/cartoon.m3u8?tkn=200640103698d3b3c22d00fd375d0de9&tms=1745806237&hst=m.canlitv.direct&ip=192.168.42.88
+https://cdn405.canlitv.direct/cartoon.m3u8?tkn=nifSKCBd8RScss-ZS3P1-g&tms=1745806237&hst=m.canlitv.direct&ip=192.168.42.88
 
 #EXTINF:-1 tvg-name="MinikaGo" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_MinikaGo" tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png" group-title="ÇizgiFilm",MinikaGo
 http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
