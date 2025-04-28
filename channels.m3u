@@ -822,7 +822,7 @@ https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_CartoonNetwork" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png" group-title="ÇizgiFilm",Cartoon Network
-https://cdn405.canlitv.direct/cartoon.m3u8?tkn=Z6FzP0sF8SiD3BKItXJ3Dw&tms=1745806237&hst=m.canlitv.direct&ip=192.168.42.88
+https://yayin2.canlitv.fun/live/cartoon-network.stream/playlist.m3u8?hash=e548a3c9b7f97214b60ffe6da69fc7e4
 
 #EXTINF:-1 tvg-name="MinikaGo" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_MinikaGo" tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png" group-title="ÇizgiFilm",MinikaGo
 https://trkvz-live.daioncdn.net/minikago/minikago.m3u8
