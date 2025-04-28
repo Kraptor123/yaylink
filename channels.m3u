@@ -101,7 +101,7 @@ https://trkvz-live.daioncdn.net/atv/atv.m3u8
 
 
 #EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_FoxTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1920px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Genel",Now TV
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=Kk5rjfasv8n7gIcjVrBBPg&e=1745802575
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=fcCT06yJ-ZEAB4V-_c9zfQ&e=1745817715
 
 #EXTINF:-1 tvg-name="Show TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ShowTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="Genel",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
