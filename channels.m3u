@@ -387,38 +387,39 @@ https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 
 # * » Müzik « * #
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png" group-title="Müzik",TRT MÜZİK
+#EXTINF:-1 tvg-name="TRT MÜZİK" tvg-language="Turkish" tvg-country="TR" tvg-id="TrtMuzik" tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png" group-title="Müzik",TRT MÜZİK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="Müzik",KRAL - KRAL POP
+#EXTINF:-1 tvg-name="KRAL - KRAL POP" tvg-language="Turkish" tvg-country="TR" tvg-id="KralPop" tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="Müzik",KRAL - KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png" group-title="Müzik",DREAM TÜRK
+#EXTINF:-1 tvg-name="DREAM TÜRK" tvg-language="Turkish" tvg-country="TR" tvg-id="DreamTurk" tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png" group-title="Müzik",DREAM TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png" group-title="Müzik",POWER TÜRK
+#EXTINF:-1 tvg-name="POWER TÜRK" tvg-language="Turkish" tvg-country="TR" tvg-id="PowerTurk" tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png" group-title="Müzik",POWER TÜRK
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png" group-title="Müzik",POWER TÜRK TAPTAZE
+#EXTINF:-1 tvg-name="POWER TÜRK TAPTAZE" tvg-language="Turkish" tvg-country="TR" tvg-id="PowerTurkTaptaze" tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png" group-title="Müzik",POWER TÜRK TAPTAZE
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rZxNWKv/pslow.png" group-title="Müzik",POWER TÜRK SLOW
+#EXTINF:-1 tvg-name="POWER TÜRK SLOW" tvg-language="Turkish" tvg-country="TR" tvg-id="PowerTurkSlow" tvg-logo="https://i.ibb.co/rZxNWKv/pslow.png" group-title="Müzik",POWER TÜRK SLOW
 http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FgCW885/pturkakustik.png" group-title="Müzik",POWER TÜRK AKUSTİK
+#EXTINF:-1 tvg-name="POWER TÜRK AKUSTİK" tvg-language="Turkish" tvg-country="TR" tvg-id="PowerTurkAkustik" tvg-logo="https://i.ibb.co/FgCW885/pturkakustik.png" group-title="Müzik",POWER TÜRK AKUSTİK
 http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cQfPfgR/tatlises.png" group-title="Müzik",TATLISES
+#EXTINF:-1 tvg-name="TATLISES" tvg-language="Turkish" tvg-country="TR" tvg-id="Tatlises" tvg-logo="https://i.ibb.co/cQfPfgR/tatlises.png" group-title="Müzik",TATLISES
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png" group-title="Müzik",NUMBER ONE TÜRK
+#EXTINF:-1 tvg-name="NUMBER ONE TÜRK" tvg-language="Turkish" tvg-country="TR" tvg-id="NumberOneTurk" tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png" group-title="Müzik",NUMBER ONE TÜRK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jJWLsCQ/nr1ask.jpg" group-title="Müzik",NUMBER ONE TÜRK ASK
+#EXTINF:-1 tvg-name="NUMBER ONE TÜRK ASK" tvg-language="Turkish" tvg-country="TR" tvg-id="NumberOneTurkAsk" tvg-logo="https://i.ibb.co/jJWLsCQ/nr1ask.jpg" group-title="Müzik",NUMBER ONE TÜRK ASK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg" group-title="Müzik",NUMBER ONE TÜRK DAMAR
+#EXTINF:-1 tvg-name="NUMBER ONE TÜRK DAMAR" tvg-language="Turkish" tvg-country="TR" tvg-id="NumberOneTurkDamar" tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg" group-title="Müzik",NUMBER ONE TÜRK DAMAR
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LR5v10B/nr1dance.jpg" group-title="Müzik",NUMBER ONE TÜRK DANCE
+#EXTINF:-1 tvg-name="NUMBER ONE TÜRK DANCE" tvg-language="Turkish" tvg-country="TR" tvg-id="NumberOneTurkDance" tvg-logo="https://i.ibb.co/LR5v10B/nr1dance.jpg" group-title="Müzik",NUMBER ONE TÜRK DANCE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+
