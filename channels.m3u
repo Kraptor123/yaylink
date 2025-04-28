@@ -308,8 +308,8 @@ https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinss.m3u8
 https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinss2.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS
-#EXTVLCOPT:http-User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-Referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-Referer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-Origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-Connection=keep-alive
 #EXTVLCOPT:http-TE=trailers
