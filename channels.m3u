@@ -161,13 +161,13 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 
 # * » EBA « * #
 #EXTINF:-1 tvg-name="EBA İlkOkul" tvg-language="Turkish" tvg-country="TR" tvg-id="EBA_IlkOkul" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8886648.png" group-title="EBA",EBA İlkOkul
-https://tv-e-okul00.medya.trt.com.tr/master_720.m3u8
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="EBA OrtaOkul" tvg-language="Turkish" tvg-country="TR" tvg-id="EBA_OrtaOkul" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8886647.png" group-title="EBA",EBA OrtaOkul
-https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="EBA Lise" tvg-language="Turkish" tvg-country="TR" tvg-id="EBA_Lise" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8886628.png" group-title="EBA",EBA Lise
-https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 
 
 
@@ -309,7 +309,7 @@ https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinss2.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS
 #EXTVLCOPT:http-User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTVLCOPT:http-Referrer=https://huhu.to/
 https://huhu.to/play/1352421053/index.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2
