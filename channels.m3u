@@ -409,46 +409,6 @@ https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-name="Tabii Spor 6" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII6" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43020.jpeg" group-title="Spor",Tabii Spor 6
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 
-
-# * » Alternatif « * #
-
-#EXTINF:-1 tvg-name="Ciftci Tv" tvg-language="Turkish" tvg-country="TR" tvg-id="CiftciTv" tvg-logo="https://i.ibb.co/vHwMgx0/ciftci.png" group-title="Alternatif",ÇİFTÇİ TV
-https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Tarim Tv" tvg-language="Turkish" tvg-country="TR" tvg-id="TarimTv" tvg-logo="https://i.ibb.co/tDB51ww/tarim.png" group-title="Alternatif",TARIM TV
-https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
-
-#EXTINF:-1 tvg-name="Yol Tv" tvg-language="Turkish" tvg-country="TR" tvg-id="YolTv" tvg-logo="https://i.ibb.co/hB9yNXV/yol22.png" group-title="Alternatif",YOL TV
-https://iptv.amgsmart2home.de/YOLTVMAIN/index.m3u8
-
-#EXTINF:-1 tvg-name="Kanal B" tvg-language="Turkish" tvg-country="TR" tvg-id="KanalB" tvg-logo="https://i.ibb.co/X7zxL8v/knlb.png" group-title="Alternatif",KANAL B
-https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
-
-#EXTINF:-1 tvg-name="Diyanet Tv" tvg-language="Turkish" tvg-country="TR" tvg-id="DiyanetTv" tvg-logo="https://i.ibb.co/k9phm3v/diyanettv.png" group-title="Alternatif",DİYANET TV
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Semerkand" tvg-language="Turkish" tvg-country="TR" tvg-id="SemerkandTv" tvg-logo="https://i.ibb.co/k8L3Mq1/semerkandtv.png" group-title="Alternatif",SEMERKAND
-https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Dost Tv" tvg-language="Turkish" tvg-country="TR" tvg-id="DostTv" tvg-logo="https://i.ibb.co/jwgqtSB/dosttv.png" group-title="Alternatif",DOST TV
-https://dost.stream.emsal.im/tv/live.m3u8
-
-#EXTINF:-1 tvg-name="Lalegul Tv" tvg-language="Turkish" tvg-country="TR" tvg-id="LalegulTv" tvg-logo="https://i.ibb.co/wrL2khn/lalegul.png" group-title="Alternatif",LALEGÜL TV
-https://lbl.netmedya.net/hls/lalegultv.m3u8
-
-#EXTINF:-1 tvg-name="ON4 Tv" tvg-language="Turkish" tvg-country="TR" tvg-id="ON4Tv" tvg-logo="https://i.ibb.co/6B8M20v/on422.png" group-title="Alternatif",ON4 TV
-https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Sat 7 Turk" tvg-language="Turkish" tvg-country="TR" tvg-id="SAT7Turk" tvg-logo="https://i.ibb.co/Cm1kp8f/sat7turk.png" group-title="Alternatif",SAT 7 TÜRK
-https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Kanal Hayat" tvg-language="Turkish" tvg-country="TR" tvg-id="KanalHayat" tvg-logo="https://i.ibb.co/1qFR0jX/Kanalhayat.png" group-title="Alternatif",KANAL HAYAT
-https://livecdn.use1-0004.jwplive.com/live/sites/WpgVdplm/media/icNwL50b/live.isml/live.m3u8
-
-#EXTINF:-1 tvg-name="Abn Turkey" tvg-language="Turkish" tvg-country="TR" tvg-id="AbnTurkey" tvg-logo="https://i.ibb.co/ChhQT8b/Abn.png" group-title="Alternatif",ABN TURKEY
-https://mediaserver.abnvideos.com/streams/turkish__discipleship.m3u8
-
-
 # * » Müzik « * #
 
 #EXTINF:-1 tvg-name="TRT MÜZİK" tvg-language="Turkish" tvg-country="TR" tvg-id="TrtMuzik" tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png" group-title="Müzik",TRT MÜZİK
