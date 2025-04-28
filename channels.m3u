@@ -172,10 +172,10 @@ https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
 
 
 # * » ÇizgiFilm « * #
-#EXTINF:-1 tvg-name="Disneyjunior" tvg-language="Turkish" tvg-country="TR" tvg-id="DisneyJn" tvg-logo="https://images.seeklogo.com/logo-png/20/1/disney-junior-logo-png_seeklogo-202718.png",group-title="ÇizgiFilm"Disney Junior
+#EXTINF:-1 tvg-name="Disneyjunior" tvg-language="Turkish" tvg-country="TR" tvg-id="DisneyJn" tvg-logo="https://images.seeklogo.com/logo-png/20/1/disney-junior-logo-png_seeklogo-202718.png" group-title="ÇizgiFilm",Disney Junior
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-language="Turkish" tvg-country="TR" tvg-id="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Nick.png",group-title="ÇizgiFilm"Nickelodeon
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-language="Turkish" tvg-country="TR" tvg-id="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Nick.png" group-title="ÇizgiFilm",Nickelodeon
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT Çocuk" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13060701.png" group-title="ÇizgiFilm",TRT Çocuk
