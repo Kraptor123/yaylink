@@ -310,6 +310,8 @@ https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinss2.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-connection=keep-alive
 https://zekonew.newkso.ru/zeko/premium62/mono.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2
