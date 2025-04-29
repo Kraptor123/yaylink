@@ -161,7 +161,7 @@ https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-id="DimTV" tvg-logo="https://i.imgur.com/X4QFDhk.png" group-title="TumKanallar",DİM TV
 https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-id="DisneyJr" tvg-logo="https://www.dsmart.com/api/v1/public/images/kanallar/disneyjr.png" group-title="TumKanallar",Disney Jr.
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-id="DisneyJr" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/au_disneyjunior_lg_r_06c341e0.png" group-title="TumKanallar",Disney Jr.
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-id="DiyanetTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/512px-Diyanet_TV_logo.svg.png" group-title="TumKanallar",Diyanet TV
