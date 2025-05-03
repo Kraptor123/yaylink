@@ -29,9 +29,6 @@ https://tv-trtbelgesel.medyat.com/master.m3u8
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT Avaz" tvg-logo="https://i.imgur.com/VhTwXu5.png" tvg-id="TRTAvaz" group-title="TumKanallar",TRT Avaz
 https://tv-trtavaz.medyat.com/master.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT Kurdî" tvg-logo="https://i.imgur.com/6BpymfB.png" tvg-id="TRTKurdi" group-title="TumKanallar",TRT Kurdî
-https://tv-trtkurdi.medyat.com/master.m3u8
-
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT Arabi" tvg-logo="https://i.imgur.com/yyhWOZs.png" tvg-id="TRTArabi" group-title="TumKanallar",TRT Arabi
 https://tv-trtarabi.medyat.com/master.m3u8
 
@@ -560,9 +557,6 @@ https://tv-e-okul02.medyat.com/master.m3u8
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-id="TRTHaber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="TumKanallar",TRT Haber
 http://185.234.111.229:8000/play/a00d
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-id="TRTKurdi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/512px-TRT_Kurd%C3%AE_logo.svg.png" group-title="TumKanallar",TRT Kurdi
-http://185.234.111.229:8000/play/a00j
-
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-id="TRTMuzik" tvg-logo="https://i.imgur.com/JgUzRH8.png" group-title="TumKanallar",TRT Muzik
 http://185.234.111.229:8000/play/a00i
 
@@ -629,8 +623,6 @@ https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-id="YildizTVEn" tvg-logo="https://i.imgur.com/BaFcCP5.png" group-title="TumKanallar",Yildiz TV En
 https://cdn-yildiz.yayin.com/yildiz/yildiz/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-id="ZarokTV" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="TumKanallar",Zarok TV
-https://zindikurmanci.zaroktv.com/hls/stream.m3u8
 
 
 # * » Tv Garden « * #
@@ -701,9 +693,6 @@ https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT Haber" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="TRTHABER" group-title="TvGarden",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT Kurdî" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="TRTKURDÎ" group-title="TvGarden",TRT Kurdî
-https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Mercan TV" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="MERCANTV" group-title="TvGarden",Mercan TV
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
@@ -1106,9 +1095,6 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-name="TRT Avaz" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_Avaz" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027789.png" group-title="TRT",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-name="TRT Kürdi" tvg-language="Kurdish" tvg-country="IR" tvg-id="TRT_Kurdi" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/14812637.png" group-title="TRT",TRT Kürdi
-https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-name="TRT Arabi" tvg-language="Arabic" tvg-country="SA" tvg-id="TRT_Arabi" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027905.png" group-title="TRT",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
