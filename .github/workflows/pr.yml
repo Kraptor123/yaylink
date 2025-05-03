@@ -1,4 +1,4 @@
-name: 🤖 Otomatik M3U8 Güncelleme
+name: 🤖 Akıllı M3U8 Güncelleyici
 
 on:
   schedule:
@@ -6,67 +6,44 @@ on:
   workflow_dispatch:
 
 jobs:
-  check-updates:
+  check-and-pr:
     runs-on: ubuntu-latest
-    outputs:
-      degisiklik: ${{ steps.check.outputs.degisiklik }}
     
     steps:
     - name: 🛎️ Repoyu Çek
       uses: actions/checkout@v4
 
-    - name: 🐍 Python Kurulumu
+    - name: 🐍 Python Kur
       uses: actions/setup-python@v4
       with:
         python-version: "3.10"
 
     - name: 📦 Bağımlılıkları Kur
-      run: |
-        pip install cloudscraper requests Kekik
+      run: pip install cloudscraper requests Kekik
 
-    - name: 🔄 Güncellemeleri Kontrol Et
-      id: check
+    - name: 🔄 Güncellemeleri Kontrol Et ve PR Aç
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
+        # Scripti çalıştır ve değişiklik kontrolü yap
         python m3u8_updater.py
-        echo "degisiklik=$(cat ${{ github.workspace }}/channels.m3u | md5sum | cut -d ' ' -f1)" >> $GITHUB_OUTPUT
+        DEGISIKLIK=$(python -c "import json; print(json.load(open('$GITHUB_OUTPUT'))['degisiklik'])")
 
-  create-pr:
-    needs: check-updates
-    if: needs.check-updates.outputs.degisiklik == 'true'
-    runs-on: ubuntu-latest
-    
-    steps:
-    - name: 🛎️ Repoyu Çek
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
-
-    - name: 🌿 Yeni Branch Oluştur
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git checkout -b "m3u8-guncelleme-$(date +'%Y%m%d-%H%M%S')"
-
-    - name: 🚀 M3U8 Güncelle
-      run: python m3u8_updater.py
-
-    - name: 💾 Değişiklikleri Kaydet
-      run: |
-        git add channels.m3u
-        git commit -m "🤖 Otomatik Güncelleme: $(date +'%d.%m.%Y %H:%M')"
-
-    - name: 🚀 Branch'i Pushla
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
-
-    - name: 🔄 Pull Request Aç
-      uses: peter-evans/create-pull-request@v4
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        title: "🤖 Otomatik M3U8 Güncellemesi"
-        body: "GitHub Actions tarafından oluşturuldu\n\n- [x] Otomatik Kontrol\n- [x] Hash Doğrulama"
-        base: main
-        branch: ${{ github.ref }}
-        delete-branch: true
+        if [ "$DEGISIKLIK" = "true" ]; then
+          # Yeni branch oluştur
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git checkout -b "m3u8-guncelleme-$(date +'%Y%m%d-%H%M%S')"
+          
+          # Değişiklikleri kaydet
+          git add channels.m3u
+          git commit -m "🤖 Otomatik Güncelleme: $(date +'%d.%m.%Y %H:%M')"
+          
+          # PR oluştur
+          git push origin HEAD
+          gh pr create --base main --head "$(git branch --show-current)" \
+            --title "🤖 M3U8 Güncellemesi" \
+            --body "Otomatik olarak oluşturuldu"
+        else
+          echo "Değişiklik yok, işlem yapılmadı"
+        fi
