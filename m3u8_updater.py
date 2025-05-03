@@ -7,100 +7,72 @@ class M3U8Updater:
         self.oturum = CloudScraper()
         self.m3u8_url = "https://raw.githubusercontent.com/Kraptor123/yaylink/main/channels.m3u"
         self.m3u8_dosya = "channels.m3u"
-        self.base_urls = {"taraftarium": None, "trgoals": None}
-        self.original_hash = self._hash_kontrol()
-
-    def _hash_kontrol(self):
-        """Dosya hash'ini al"""
-        if os.path.exists(self.m3u8_dosya):
-            with open(self.m3u8_dosya, "rb") as f:
-                return hashlib.md5(f.read()).hexdigest()
-        return None
-
-    def degisiklik_var_mi(self):
-        """Hash karşılaştırması yap"""
-        with open(self.m3u8_dosya, "rb") as f:
-            yeni_hash = hashlib.md5(f.read()).hexdigest()
-        return yeni_hash != self.original_hash
+        self.original_content = self._dosya_indir()  # İlk içeriği kaydet
 
     def _dosya_indir(self):
-        """M3U8 dosyasını indir"""
+        """M3U8 dosyasını indir ve içeriğini döndür"""
         try:
             response = requests.get(self.m3u8_url)
-            with open(self.m3u8_dosya, "w", encoding="utf-8") as f:
-                f.write(response.text)
-            konsol.log("[+] M3U8 dosyası başarıyla indirildi")
+            return response.text
         except Exception as hata:
             konsol.log(f"[!] İndirme hatası: {hata}")
             raise
 
-    def _taraftarium_baseurl_al(self):
-        """Taraftarium URL'sini çek"""
+    def _url_al(self, url, regex_pattern):
+        """Belirtilen siteden URL'yi regex ile çek"""
         try:
-            kaynak = self.oturum.get("https://taraftarium.co/channel.html?id=yayinstar").text
-            if match := re.search(r'baseurl\s*=\s*"([^"]+)"', kaynak):
-                self.base_urls["taraftarium"] = match.group(1).rstrip("/") + "/"
-                konsol.log(f"[+] Taraftarium URL: {self.base_urls['taraftarium']}")
-            else:
-                konsol.log("[!] Taraftarium URL bulunamadı")
+            kaynak = self.oturum.get(url).text
+            if match := re.search(regex_pattern, kaynak):
+                return match.group(1).strip("/") + "/"
+            konsol.log(f"[!] URL bulunamadı: {url}")
+            return None
         except Exception as hata:
-            konsol.log(f"[!] Taraftarium hatası: {hata}")
+            konsol.log(f"[!] Hata ({url}): {hata}")
+            return None
 
-    def _trgoals_baseurl_al(self):
-        """TrGoals URL'sini çek"""
-        try:
-            kaynak = self.oturum.get("https://trgoals1313.xyz/channel.html?id=yayin1").text
-            if match := re.search(r'const baseurl\s*=\s*"([^"]+)"', kaynak):
-                self.base_urls["trgoals"] = match.group(1).rstrip("/") + "/"
-                konsol.log(f"[+] TrGoals URL: {self.base_urls['trgoals']}")
-            else:
-                konsol.log("[!] TrGoals URL bulunamadı")
-        except Exception as hata:
-            konsol.log(f"[!] TrGoals hatası: {hata}")
-
-    def _m3u8_guncelle(self):
-        """M3U8 dosyasını güncelle"""
-        with open(self.m3u8_dosya, "r", encoding="utf-8") as f:
-            icerik = f.read()
-
-        # Regex pattern'leri
-        patterns = [
-            (
-                r'(#EXTVLCOPT:http-referrer=https://taraftarium\.co/\nhttps?://)([^/]+)(/.*\.m3u8)',
-                self.base_urls["taraftarium"]
-            ),
-            (
-                r'(#EXTVLCOPT:http-referrer=https://trgoals1312\.xyz/\nhttps?://)([^/]+)(/.*\.m3u8)',
-                self.base_urls["trgoals"]
-            )
-        ]
-
-        # Güncelleme işlemi
-        for pattern, new_url in patterns:
-            if new_url:
-                icerik = re.sub(
-                    pattern,
-                    lambda m: f"{m.group(1)}{new_url.split('://')[1]}{m.group(3)}",
-                    icerik
-                )
-
-        # Değişiklikleri kaydet
-        with open(self.m3u8_dosya, "w", encoding="utf-8") as f:
-            f.write(icerik)
-        konsol.log("[✔] M3U8 başarıyla güncellendi")
+    def _m3u8_guncelle(self, hedef_url, yeni_url):
+        """M3U8 içeriğinde URL güncelle"""
+        if not yeni_url:
+            return self.original_content
+            
+        # Debug çıktısı
+        konsol.log(f"[DEBUG] {hedef_url} -> {yeni_url}")
+        
+        return re.sub(
+            rf'(#EXTVLCOPT:http-referrer={re.escape(hedef_url)}/\nhttps?://)([^/]+)(/.*\.m3u8)',
+            fr'\g<1>{yeni_url.split("://")[1]}\g<3>',
+            self.original_content
+        )
 
     def calistir(self):
-        """Ana çalıştırıcı"""
-        self._dosya_indir()
-        self._taraftarium_baseurl_al()
-        self._trgoals_baseurl_al()
-        self._m3u8_guncelle()
-        return self.degisiklik_var_mi()
+        """Ana işlem"""
+        # Güncel URL'leri al
+        taraftarium_url = self._url_al(
+            "https://taraftarium.co/channel.html?id=yayinstar",
+            r'baseurl\s*=\s*"([^"]+)"'
+        )
+        trgoals_url = self._url_al(
+            "https://trgoals1313.xyz/channel.html?id=yayin1",
+            r'const baseurl\s*=\s*"([^"]+)"'
+        )
         
+        # M3U8'i güncelle
+        yeni_icerik = self._m3u8_guncelle("https://taraftarium.co", taraftarium_url)
+        yeni_icerik = self._m3u8_guncelle("https://trgoals1312.xyz", trgoals_url)
+        
+        # Değişiklik kontrolü
+        degisiklik_var = yeni_icerik != self.original_content
+        
+        if degisiklik_var:
+            with open(self.m3u8_dosya, "w", encoding="utf-8") as f:
+                f.write(yeni_icerik)
+            konsol.log("[+] M3U8 başarıyla güncellendi!")
+        else:
+            konsol.log("[✔] Değişiklik yok")
+            
+        return degisiklik_var
+
 if __name__ == "__main__":
-    updater = M3U8Updater()
-    degisiklik = updater.calistir()
-    
-    # Yeni output yöntemi
+    degisiklik = M3U8Updater().calistir()
     with open(os.environ.get('GITHUB_OUTPUT', ''), 'a') as fh:
         print(f'degisiklik={str(degisiklik).lower()}', file=fh)
