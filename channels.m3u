@@ -637,152 +637,152 @@ https://zindikurmanci.zaroktv.com/hls/stream.m3u8
 # * » Spor Yeni « * #
 
 
-#EXTINF:-1 tvg-name="yayinstar" tvg-language="Turkish" tvg-country="TR" tvg-id="ystar" tvg-logo="eklenecek" group-title="SporYeni", beInSports1
+#EXTINF:-1 tvg-name="yayinstar" tvg-language="Turkish" tvg-country="TR" tvg-id="ystar" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp" group-title="SporYeni", beInSports1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinstar.m3u8
 
-#EXTINF:-1 tvg-name="yayinb2" tvg-language="Turkish" tvg-country="TR" tvg-id="yb2" tvg-logo="eklenecek" group-title="SporYeni", beInSports2
+#EXTINF:-1 tvg-name="yayinb2" tvg-language="Turkish" tvg-country="TR" tvg-id="yb2" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-2-logo-png_seeklogo-481584.png" group-title="SporYeni", beInSports2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinb2.m3u8
 
-#EXTINF:-1 tvg-name="yayinb3" tvg-language="Turkish" tvg-country="TR" tvg-id="yb3" tvg-logo="eklenecek" group-title="SporYeni", beInSports3
+#EXTINF:-1 tvg-name="yayinb3" tvg-language="Turkish" tvg-country="TR" tvg-id="yb3" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-3-logo-png_seeklogo-481585.png" group-title="SporYeni", beInSports3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinb3.m3u8
 
-#EXTINF:-1 tvg-name="yayinb4" tvg-language="Turkish" tvg-country="TR" tvg-id="yb4" tvg-logo="eklenecek" group-title="SporYeni", beInSports4
+#EXTINF:-1 tvg-name="yayinb4" tvg-language="Turkish" tvg-country="TR" tvg-id="yb4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL7ZfLhHsAgzlp6hrWSDGZxVVSk3mCV0jQyw&s" group-title="SporYeni", beInSports4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinb4.m3u8
 
-#EXTINF:-1 tvg-name="yayinb5" tvg-language="Turkish" tvg-country="TR" tvg-id="yb5" tvg-logo="eklenecek" group-title="SporYeni", beInSports5
+#EXTINF:-1 tvg-name="yayinb5" tvg-language="Turkish" tvg-country="TR" tvg-id="yb5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUQFeNVDh8-PJHWL3BaC-qM6f9pczlHXJCFQ&s" group-title="SporYeni", beInSports5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinb5.m3u8
 
-#EXTINF:-1 tvg-name="yayinbm1" tvg-language="Turkish" tvg-country="TR" tvg-id="ybm1" tvg-logo="eklenecek" group-title="SporYeni", beInMax1
+#EXTINF:-1 tvg-name="yayinbm1" tvg-language="Turkish" tvg-country="TR" tvg-id="ybm1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_bein_sports_max_1.png" group-title="SporYeni", beInMax1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinbm1.m3u8
 
-#EXTINF:-1 tvg-name="yayinbm2" tvg-language="Turkish" tvg-country="TR" tvg-id="ybm2" tvg-logo="eklenecek" group-title="SporYeni", beInMax2
+#EXTINF:-1 tvg-name="yayinbm2" tvg-language="Turkish" tvg-country="TR" tvg-id="ybm2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIuOa76a9k0xAyEJCnOef_d-NP3cx1yiWlnw&s" group-title="SporYeni", beInMax2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinbm2.m3u8
 
-#EXTINF:-1 tvg-name="yayinss" tvg-language="Turkish" tvg-country="TR" tvg-id="yss" tvg-logo="eklenecek" group-title="SporYeni", Ssport
+#EXTINF:-1 tvg-name="yayinss" tvg-language="Turkish" tvg-country="TR" tvg-id="yss" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" group-title="SporYeni", Ssport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinss.m3u8
 
-#EXTINF:-1 tvg-name="yayinss2" tvg-language="Turkish" tvg-country="TR" tvg-id="yss2" tvg-logo="eklenecek" group-title="SporYeni", Ssport2
+#EXTINF:-1 tvg-name="yayinss2" tvg-language="Turkish" tvg-country="TR" tvg-id="yss2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/S_Sport_2_logo.jpg" group-title="SporYeni", Ssport2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinss2.m3u8
 
-#EXTINF:-1 tvg-name="yayinssp2" tvg-language="Turkish" tvg-country="TR" tvg-id="yssp2" tvg-logo="eklenecek" group-title="SporYeni", yayinssp2
+#EXTINF:-1 tvg-name="yayinssp2" tvg-language="Turkish" tvg-country="TR" tvg-id="yssp2" tvg-logo="https://st2.depositphotos.com/32927174/50625/v/450/depositphotos_506253950-stock-illustration-glowing-neon-line-smart-tv.jpg" group-title="SporYeni", yayinssp2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinssp2.m3u8
 
-#EXTINF:-1 tvg-name="yayint1" tvg-language="English" tvg-country="US" tvg-id="yt1" tvg-logo="eklenecek" group-title="SporYeni", Int1
+#EXTINF:-1 tvg-name="yayint1" tvg-language="English" tvg-country="US" tvg-id="yt1" tvg-logo="https://st2.depositphotos.com/32927174/50625/v/450/depositphotos_506253950-stock-illustration-glowing-neon-line-smart-tv.jpg" group-title="SporYeni", Int1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayint1.m3u8
 
-#EXTINF:-1 tvg-name="yayint2" tvg-language="English" tvg-country="US" tvg-id="yt2" tvg-logo="eklenecek" group-title="SporYeni", Int2
+#EXTINF:-1 tvg-name="yayint2" tvg-language="English" tvg-country="US" tvg-id="yt2" tvg-logo="https://st2.depositphotos.com/32927174/50625/v/450/depositphotos_506253950-stock-illustration-glowing-neon-line-smart-tv.jpg" group-title="SporYeni", Int2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayint2.m3u8
 
-#EXTINF:-1 tvg-name="yayint3" tvg-language="English" tvg-country="US" tvg-id="yt3" tvg-logo="eklenecek" group-title="SporYeni", Int3
+#EXTINF:-1 tvg-name="yayint3" tvg-language="English" tvg-country="US" tvg-id="yt3" tvg-logo="https://st2.depositphotos.com/32927174/50625/v/450/depositphotos_506253950-stock-illustration-glowing-neon-line-smart-tv.jpg" group-title="SporYeni", Int3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayint3.m3u8
 
-#EXTINF:-1 tvg-name="yayinsms2" tvg-language="Turkish" tvg-country="TR" tvg-id="ysms2" tvg-logo="eklenecek" group-title="SporYeni", SporSmart1
+#EXTINF:-1 tvg-name="yayinsms2" tvg-language="Turkish" tvg-country="TR" tvg-id="ysms2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdYSQGT_WqBqqvfqrLrmV1a3iYWbtTfaSOCQ&s" group-title="SporYeni", SporSmart1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinsmarts.m3u8
 
-#EXTINF:-1 tvg-name="yayinsms2" tvg-language="Turkish" tvg-country="TR" tvg-id="ysms2" tvg-logo="eklenecek" group-title="SporYeni", SporSmart2
+#EXTINF:-1 tvg-name="yayinsms2" tvg-language="Turkish" tvg-country="TR" tvg-id="ysms2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToSawLyH55lq44yYTFql2XmVBICUqIY3tI4A&s" group-title="SporYeni", SporSmart2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinsms2.m3u8
 
-#EXTINF:-1 tvg-name="yayintrtspor" tvg-language="Turkish" tvg-country="TR" tvg-id="ytrtspor" tvg-logo="eklenecek" group-title="SporYeni", Trt Spor
+#EXTINF:-1 tvg-name="yayintrtspor" tvg-language="Turkish" tvg-country="TR" tvg-id="ytrtspor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TRT_Spor_kurumsal_logo.png/1200px-TRT_Spor_kurumsal_logo.png" group-title="SporYeni", Trt Spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayintrtspor.m3u8
 
-#EXTINF:-1 tvg-name="yayintrtspor2" tvg-language="Turkish" tvg-country="TR" tvg-id="ytrtspor2" tvg-logo="eklenecek" group-title="SporYeni", Trt Spor2
+#EXTINF:-1 tvg-name="yayintrtspor2" tvg-language="Turkish" tvg-country="TR" tvg-id="ytrtspor2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuGeL-p7Kq0FRl_WTL3a6Fx5SxEJCakwXQ9w&s" group-title="SporYeni", Trt Spor2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayintrtspor2.m3u8
 
-#EXTINF:-1 tvg-name="yayinas" tvg-language="Turkish" tvg-country="TR" tvg-id="yas" tvg-logo="eklenecek" group-title="SporYeni", A spor
+#EXTINF:-1 tvg-name="yayinas" tvg-language="Turkish" tvg-country="TR" tvg-id="yas" tvg-logo="https://i.tmgrup.com.tr/aSpor/i/logo.png" group-title="SporYeni", A spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinas.m3u8
 
-#EXTINF:-1 tvg-name="yayinatv" tvg-language="Turkish" tvg-country="TR" tvg-id="yatv" tvg-logo="eklenecek" group-title="SporYeni", 
+#EXTINF:-1 tvg-name="yayinatv" tvg-language="Turkish" tvg-country="TR" tvg-id="yatv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPoV-K9-Kv9L1nBPs0ByqrrTRoL8xbrNckeA&s" group-title="SporYeni", beInMax1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinatv.m3u8
 
-#EXTINF:-1 tvg-name="yayintv8" tvg-language="Turkish" tvg-country="TR" tvg-id="ytv8" tvg-logo="eklenecek" group-title="SporYeni", TntSports
+#EXTINF:-1 tvg-name="yayintv8" tvg-language="Turkish" tvg-country="TR" tvg-id="ytv8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIuOa76a9k0xAyEJCnOef_d-NP3cx1yiWlnw&s" group-title="SporYeni", TntSports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayintv8.m3u8
 
-#EXTINF:-1 tvg-name="yayintv85" tvg-language="Turkish" tvg-country="TR" tvg-id="ytv85" tvg-logo="eklenecek" group-title="SporYeni", Tv8 bucuk
+#EXTINF:-1 tvg-name="yayintv85" tvg-language="Turkish" tvg-country="TR" tvg-id="ytv85" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605" group-title="SporYeni", Tv8 bucuk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayintv85.m3u8
 
-#EXTINF:-1 tvg-name="yayinnbatv" tvg-language="Turkish" tvg-country="TR" tvg-id="ybatv" tvg-logo="eklenecek" group-title="SporYeni", Nba Tv
+#EXTINF:-1 tvg-name="yayinnbatv" tvg-language="Turkish" tvg-country="TR" tvg-id="ybatv" tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png" group-title="SporYeni", Nba Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinnbatv.m3u8
 
-#EXTINF:-1 tvg-name="yayinex1" tvg-language="Turkish" tvg-country="TR" tvg-id="yayinex1" tvg-logo="eklenecek" group-title="SporYeni", beINSports3yedek
+#EXTINF:-1 tvg-name="yayinex1" tvg-language="Turkish" tvg-country="TR" tvg-id="yayinex1" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-3-logo-png_seeklogo-481585.png" group-title="SporYeni", beINSports3yedek
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinex1.m3u8
 
-#EXTINF:-1 tvg-name="yayinex2" tvg-language="Turkish" tvg-country="TR" tvg-id="yayinex2" tvg-logo="eklenecek" group-title="SporYeni", yayinex2
+#EXTINF:-1 tvg-name="yayinex2" tvg-language="Turkish" tvg-country="TR" tvg-id="yayinex2" tvg-logo="https://st2.depositphotos.com/32927174/50625/v/450/depositphotos_506253950-stock-illustration-glowing-neon-line-smart-tv.jpg" group-title="SporYeni", yayinex2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinex2.m3u8
 
-#EXTINF:-1 tvg-name="yayinex3" tvg-language="Turkish" tvg-country="TR" tvg-id="yayinex3" tvg-logo="eklenecek" group-title="SporYeni", yayinex3
+#EXTINF:-1 tvg-name="yayinex3" tvg-language="Turkish" tvg-country="TR" tvg-id="yayinex3" tvg-logo="https://st2.depositphotos.com/32927174/50625/v/450/depositphotos_506253950-stock-illustration-glowing-neon-line-smart-tv.jpg" group-title="SporYeni", yayinex3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinex3.m3u8
 
-#EXTINF:-1 tvg-name="yayinex4" tvg-language="Turkish" tvg-country="TR" tvg-id="yayinex4" tvg-logo="eklenecek" group-title="SporYeni", CBC SPORT
+#EXTINF:-1 tvg-name="yayinex4" tvg-language="Turkish" tvg-country="TR" tvg-id="yayinex4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/CBC_Sport_Logo.png" group-title="SporYeni", CBC SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinex4.m3u8
 
-#EXTINF:-1 tvg-name="yayinex5" tvg-language="Turkish" tvg-country="TR" tvg-id="yayinex5" tvg-logo="eklenecek" group-title="SporYeni", beINSports3yedek2
+#EXTINF:-1 tvg-name="yayinex5" tvg-language="Turkish" tvg-country="TR" tvg-id="yayinex5" tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-3-logo-png_seeklogo-481585.png" group-title="SporYeni", beINSports3yedek2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinex5.m3u8
 
-#EXTINF:-1 tvg-name="yayinex6" tvg-language="English" tvg-country="US" tvg-id="yayinex6" tvg-logo="eklenecek" group-title="SporYeni", Premiere1
+#EXTINF:-1 tvg-name="yayinex6" tvg-language="English" tvg-country="US" tvg-id="yayinex6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDRcCadYfddI73NnCdQBVLZpjfJVHCKEHQYg&s" group-title="SporYeni", Premiere1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinex6.m3u8
 
-#EXTINF:-1 tvg-name="yayinex7" tvg-language="Turkish" tvg-country="TR" tvg-id="yayinex7" tvg-logo="eklenecek" group-title="SporYeni", beINSports 1 Max
+#EXTINF:-1 tvg-name="yayinex7" tvg-language="Turkish" tvg-country="TR" tvg-id="yayinex7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_bein_sports_max_1.png" group-title="SporYeni", beINSports 1 Max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinex7.m3u8
 
-#EXTINF:-1 tvg-name="yayinex8" tvg-language="Turkish" tvg-country="TR" tvg-id="yayinex8" tvg-logo="eklenecek" group-title="SporYeni", yayinex8
+#EXTINF:-1 tvg-name="yayinex8" tvg-language="Turkish" tvg-country="TR" tvg-id="yayinex8" tvg-logo="https://st2.depositphotos.com/32927174/50625/v/450/depositphotos_506253950-stock-illustration-glowing-neon-line-smart-tv.jpg" group-title="SporYeni", yayinex8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinex8.m3u8
