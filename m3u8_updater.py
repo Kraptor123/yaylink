@@ -96,8 +96,11 @@ class M3U8Updater:
         self._trgoals_baseurl_al()
         self._m3u8_guncelle()
         return self.degisiklik_var_mi()
-
+        
 if __name__ == "__main__":
     updater = M3U8Updater()
     degisiklik = updater.calistir()
-    print(f"::set-output name=degisiklik::{str(degisiklik).lower()}")
+    
+    # Yeni output yöntemi
+    with open(os.environ.get('GITHUB_OUTPUT', ''), 'a') as fh:
+        print(f'degisiklik={str(degisiklik).lower()}', file=fh)
