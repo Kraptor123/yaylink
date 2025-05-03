@@ -636,148 +636,148 @@ https://zindikurmanci.zaroktv.com/hls/stream.m3u8
 # * » Tv Garden « * #
 
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Show TV" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="SHOWTV" group-title="TvGarden",Show TV
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Show TV" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="SHOWTV" group-title="TvGarden",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Sports TV" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="SPORTSTV" group-title="TvGarden",Sports TV
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Sports TV" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="SPORTSTV" group-title="TvGarden",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Star TV" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="STARTV" group-title="TvGarden",Star TV
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Star TV" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="STARTV" group-title="TvGarden",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Sun RTV" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="SUNRTV" group-title="TvGarden",Sun RTV
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Sun RTV" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="SUNRTV" group-title="TvGarden",Sun RTV
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TAY TV" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="TAYTV" group-title="TvGarden",TAY TV
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TAY TV" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="TAYTV" group-title="TvGarden",TAY TV
 https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TBMM TV" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="TBMMTV" group-title="TvGarden",TBMM TV
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TBMM TV" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="TBMMTV" group-title="TvGarden",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Tele 1" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="TELE1" group-title="TvGarden",Tele 1
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Tele 1" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="TELE1" group-title="TvGarden",Tele 1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Tempo TV" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="TEMPOTV" group-title="TvGarden",Tempo TV
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Tempo TV" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="TEMPOTV" group-title="TvGarden",Tempo TV
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Teve2" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="TEVE2" group-title="TvGarden",Teve2
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Teve2" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="TEVE2" group-title="TvGarden",Teve2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TGRT Haber" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="TGRTHABER" group-title="TvGarden",TGRT Haber
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TGRT Haber" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="TGRTHABER" group-title="TvGarden",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Tivi 6" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="TIVI6" group-title="TvGarden",Tivi 6
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Tivi 6" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="TIVI6" group-title="TvGarden",Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Ton TV" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="TONTV" group-title="TvGarden",Ton TV
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Ton TV" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="TONTV" group-title="TvGarden",Ton TV
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Trakya Türk TV" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="TRAKYATÜRKTV" group-title="TvGarden",Trakya Türk TV
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Trakya Türk TV" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="TRAKYATÜRKTV" group-title="TvGarden",Trakya Türk TV
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT 1" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="TRT1" group-title="TvGarden",TRT 1
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT 1" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="TRT1" group-title="TvGarden",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT 2" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="TRT2" group-title="TvGarden",TRT 2
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT 2" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="TRT2" group-title="TvGarden",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT Arabi" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="TRTARABI" group-title="TvGarden",TRT Arabi
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT Arabi" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="TRTARABI" group-title="TvGarden",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT Avaz" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="TRTAVAZ" group-title="TvGarden",TRT Avaz
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT Avaz" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="TRTAVAZ" group-title="TvGarden",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT Belgesel" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="TRTBELGESEL" group-title="TvGarden",TRT Belgesel
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT Belgesel" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="TRTBELGESEL" group-title="TvGarden",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT Çocuk" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="TRTÇOCUK" group-title="TvGarden",TRT Çocuk
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT Çocuk" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="TRTÇOCUK" group-title="TvGarden",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT Diyanet Çocuk" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="TRTDIYANETÇOCUK" group-title="TvGarden",TRT Diyanet Çocuk
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT Diyanet Çocuk" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="TRTDIYANETÇOCUK" group-title="TvGarden",TRT Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT EBA Ortaokul" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="TRTEBAORTAOKUL" group-title="TvGarden",TRT EBA Ortaokul
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT EBA Ortaokul" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="TRTEBAORTAOKUL" group-title="TvGarden",TRT EBA Ortaokul
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT Haber" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="TRTHABER" group-title="TvGarden",TRT Haber
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT Haber" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="TRTHABER" group-title="TvGarden",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT Kurdî" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="TRTKURDÎ" group-title="TvGarden",TRT Kurdî
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="TRT Kurdî" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="TRTKURDÎ" group-title="TvGarden",TRT Kurdî
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Mercan TV" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="MERCANTV" group-title="TvGarden",Mercan TV
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Mercan TV" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="MERCANTV" group-title="TvGarden",Mercan TV
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Minika Cocuk" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="MINIKACOCUK" group-title="TvGarden",Minika Cocuk
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Minika Cocuk" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="MINIKACOCUK" group-title="TvGarden",Minika Cocuk
 https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Minika Go" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="MINIKAGO" group-title="TvGarden",Minika Go
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Minika Go" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="MINIKAGO" group-title="TvGarden",Minika Go
 https://trkvz-live.daioncdn.net/minikago/minikago.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="MTürk TV" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="MTÜRKTV" group-title="TvGarden",MTürk TV
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="MTürk TV" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="MTÜRKTV" group-title="TvGarden",MTürk TV
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Natural TV" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="NATURALTV" group-title="TvGarden",Natural TV
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Natural TV" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="NATURALTV" group-title="TvGarden",Natural TV
 https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Nora TV" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="NORATV" group-title="TvGarden",Nora TV
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Nora TV" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="NORATV" group-title="TvGarden",Nora TV
 https://live.artidijitalmedya.com/artidijital_noratv/noratv/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="NOW TV" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="NOWTV" group-title="TvGarden",NOW TV
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="NOW TV" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="NOWTV" group-title="TvGarden",NOW TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="NTV" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="NTV" group-title="TvGarden",NTV
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="NTV" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="NTV" group-title="TvGarden",NTV
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Number 1 Damar" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="NUMBER1DAMAR" group-title="TvGarden",Number 1 Damar
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Number 1 Damar" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="NUMBER1DAMAR" group-title="TvGarden",Number 1 Damar
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Number 1 Dance" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="NUMBER1DANCE" group-title="TvGarden",Number 1 Dance
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Number 1 Dance" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="NUMBER1DANCE" group-title="TvGarden",Number 1 Dance
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Number 1 TV" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="NUMBER1TV" group-title="TvGarden",Number 1 TV
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Number 1 TV" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="NUMBER1TV" group-title="TvGarden",Number 1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Olay Türk TV Kayseri" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="OLAYTÜRKTVKAYSERI" group-title="TvGarden",Olay Türk TV Kayseri
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Olay Türk TV Kayseri" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="OLAYTÜRKTVKAYSERI" group-title="TvGarden",Olay Türk TV Kayseri
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="On 6" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="ON6" group-title="TvGarden",On 6
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="On 6" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="ON6" group-title="TvGarden",On 6
 https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="On4 TV" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="ON4TV" group-title="TvGarden",On4 TV
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="On4 TV" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="ON4TV" group-title="TvGarden",On4 TV
 https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Öncü TV" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="ÖNCÜTV" group-title="TvGarden",Öncü TV
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Öncü TV" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="ÖNCÜTV" group-title="TvGarden",Öncü TV
 https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Power Dance" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="POWERDANCE" group-title="TvGarden",Power Dance
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Power Dance" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="POWERDANCE" group-title="TvGarden",Power Dance
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Power Love" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="POWERLOVE" group-title="TvGarden",Power Love
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Power Love" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="POWERLOVE" group-title="TvGarden",Power Love
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Power Turk" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="POWERTURK" group-title="TvGarden",Power Turk
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Power Turk" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="POWERTURK" group-title="TvGarden",Power Turk
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Power Türk Akustik" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="POWERTÜRKAKUSTIK" group-title="TvGarden",Power Türk Akustik
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Power Türk Akustik" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="POWERTÜRKAKUSTIK" group-title="TvGarden",Power Türk Akustik
 https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Power Türk Slow" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="POWERTÜRKSLOW" group-title="TvGarden",Power Türk Slow
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Power Türk Slow" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="POWERTÜRKSLOW" group-title="TvGarden",Power Türk Slow
 https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Power Türk Taptaze" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="POWERTÜRKTAPTAZE" group-title="TvGarden",Power Türk Taptaze
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Power Türk Taptaze" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="POWERTÜRKTAPTAZE" group-title="TvGarden",Power Türk Taptaze
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Power TV" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="POWERTV" group-title="TvGarden",Power TV
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Power TV" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="POWERTV" group-title="TvGarden",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="S Sport" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="SSPORT" group-title="TvGarden",S Sport
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="S Sport" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="SSPORT" group-title="TvGarden",S Sport
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="S Sport 2" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="SSPORT2" group-title="TvGarden",S Sport 2
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="S Sport 2" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="SSPORT2" group-title="TvGarden",S Sport 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Semerkand TV" tvg-logo="https://avatars.githubusercontent.com/u/168250776?v=4" tvg-id="SEMERKANDTV" group-title="TvGarden",Semerkand TV
+#EXTINF:-1 tvg-language="Turkish" tvg-country="TR" tvg-name="Semerkand TV" tvg-logo="https://apktodo.io/uploads/2025/3/tv-garden-2.jpg" tvg-id="SEMERKANDTV" group-title="TvGarden",Semerkand TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 
 
