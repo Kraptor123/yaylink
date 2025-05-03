@@ -28,7 +28,7 @@ jobs:
       id: check
       run: |
         python m3u8_updater.py
-        echo "degisiklik=$(python -c 'import sys; print(sys.argv[1].lower())' $?)" >> $GITHUB_OUTPUT
+        echo "degisiklik=$(cat ${{ github.workspace }}/channels.m3u | md5sum | cut -d ' ' -f1)" >> $GITHUB_OUTPUT
 
   create-pr:
     needs: check-updates
