@@ -13,7 +13,7 @@ class M3U8Updater:
         self.m3u8_dosya = local_file
         self.original_content = self._dosya_indir()
         self.fallbacks = {
-            'taraftarium': 'https://t6co.32ufajdjfnsa32.workers.dev/list/',
+            'taraftarium': 'https://t6co.32ufajdjfnsa32.workers.dev/',
             'trgoals':    'https://b0.4928d54d950ee70q42.click/'
         }
 
