@@ -38,7 +38,7 @@ class M3U8Updater:
             try:
                 resp = self.oturum.get(full_url, headers=headers, timeout=10)
                 if match := self.baseurl_regex.search(resp.text):
-                    return match.group(1)
+                    return match.group(1).rstrip('/') + '/'  # Trailing slash garantisi
                 raise ValueError(f"BaseURL pattern not found in {full_url}")
             except Exception as hata:
                 if attempt == retries - 1:
@@ -50,7 +50,8 @@ class M3U8Updater:
         try:
             resp = requests.get(self.m3u8_url, timeout=10)
             resp.raise_for_status()
-            return resp.text.splitlines()
+            # Satır sonu karakterlerini koruyarak ayırma
+            return resp.content.decode('utf-8').splitlines(keepends=True)
         except Exception as hata:
             konsol.log(f"[!] M3U8 indirme hatası: {hata}")
             raise
@@ -62,10 +63,11 @@ class M3U8Updater:
                 src['baseurl'] = self._fetch_baseurl(src)
             
             new_content = []
+            modified = False
+            
             i = 0
             while i < len(self.original_content):
                 line = self.original_content[i]
-                new_content.append(line)
                 
                 if line.startswith('#EXTVLCOPT:http-referrer=') and (i+1) < len(self.original_content):
                     referrer = line.split('=', 1)[1].strip()
@@ -73,27 +75,33 @@ class M3U8Updater:
                     
                     for src in self.sources:
                         if referrer == src['referrer']:
-                            filename = next_line.split('/')[-1]
+                            original_url = next_line.strip()
+                            filename = original_url.split('/')[-1]
                             new_url = f"{src['baseurl']}{filename}"
-                            if not next_line.startswith(src['baseurl']):
-                                konsol.log(f"[+] Güncelleniyor: {next_line} -> {new_url}")
-                                new_content.append(new_url)
+                            
+                            if not original_url.startswith(src['baseurl']):
+                                # Orijinal satır sonu karakterini koru
+                                new_line = new_url + next_line[len(original_url):]
+                                new_content.extend([line, new_line])
+                                konsol.log(f"[+] Güncelleniyor: {original_url} -> {new_url}")
+                                modified = True
                             else:
-                                new_content.append(next_line)
+                                new_content.extend([line, next_line])
+                            
                             i += 1  # Next line'i atla
                             break
                     else:
-                        new_content.append(next_line)
+                        new_content.extend([line, next_line])
                         i += 1
+                else:
+                    new_content.append(line)
+                
                 i += 1
 
             # Değişiklik kontrolü
-            original_hash = hashlib.sha256('\n'.join(self.original_content).encode()).hexdigest()
-            new_hash = hashlib.sha256('\n'.join(new_content).encode()).hexdigest()
-            
-            if original_hash != new_hash:
-                with open(self.m3u8_dosya, 'w', encoding='utf-8') as f:
-                    f.write('\n'.join(new_content))
+            if modified:
+                with open(self.m3u8_dosya, 'wb') as f:
+                    f.write(''.join(new_content).encode('utf-8'))
                 konsol.log("[+] M3U8 başarıyla güncellendi!")
                 return True
             else:
