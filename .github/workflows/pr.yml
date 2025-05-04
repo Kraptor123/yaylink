@@ -48,7 +48,7 @@ jobs:
         run: |
           git diff --quiet . || echo "degisiklik=true" >> $GITHUB_OUTPUT
 
-      - name: 🔄 Pull Request Oluştur
+      - name: 🔄 Değişiklikleri Commit'le ve Push Et
         if: steps.changes.outputs.degisiklik == 'true'
         run: |
           git config user.name "github-actions[bot]"
@@ -56,21 +56,5 @@ jobs:
 
           git add channels.m3u
           git commit -m "🤖 Otomatik M3U8 Güncellemesi" \
-                     -m "🔄 Kaynak URL'lerdeki değişiklikler uygulandı"
-
-          BRANCH_NAME="m3u8-update-$(date +%s)"
-          git checkout -b $BRANCH_NAME
-          git push origin $BRANCH_NAME
-
-          # GitHub API ile PR oluştur
-          curl -X POST \
-            -H "Authorization: token $GITHUB_TOKEN" \
-            -H "Accept: application/vnd.github.v3+json" \
-            "https://api.github.com/repos/$REPO_OWNER/$REPO_NAME/pulls" \
-            -d '{
-              "title": "🤖 Otomatik M3U8 Güncellemesi",
-              "head": "'$BRANCH_NAME'",
-              "base": "main",
-              "body": "**Otomatik olarak oluşturuldu**\n\n- Kaynak URL kontrolleri\n- Hash tabanlı değişiklik takibi",
-              "draft": false
-            }'
+                      -m "🔄 Kaynak URL'lerdeki değişiklikler uygulandı"
+          git push origin main
