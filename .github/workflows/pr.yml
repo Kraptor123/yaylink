@@ -6,7 +6,11 @@ concurrency:
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Her 6 saatte bir
+    - cron: "0 */6 * * *"      # Her 6 saatte bir (UTC)
+    - cron: "30 16 * * *"      # 19:30 Türkiye saati
+    - cron: "0 17 * * *"       # 20:00 Türkiye saati
+    - cron: "30 18 * * *"      # 21:30 Türkiye saati
+    - cron: "30 19 * * *"      # 22:30 Türkiye saati
   workflow_dispatch:
 
 jobs:
