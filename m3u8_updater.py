@@ -20,7 +20,7 @@ class M3U8Updater:
             },
             {
                 'page_url': 'https://trgoals1313.xyz/channel.html?id=yayin1',
-                'referrer': 'https://trgoals1312.xyz/'
+                'referrer': 'https://trgoals1325.xyz/'
             }
         ]
         self.baseurl_regex = re.compile(r'baseurl\s*=\s*["\'](https?://[^"\']+/)["\']')
