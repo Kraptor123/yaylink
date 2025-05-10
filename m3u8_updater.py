@@ -19,7 +19,7 @@ class M3U8Updater:
                 'referrer': 'https://taraftarium.co/'
             },
             {
-                'page_url': 'https://trgoals1313.xyz/channel.html?id=yayin1',
+                'page_url': 'https://trgoals1325.xyz/channel.html?id=yayin1',
                 'referrer': 'https://trgoals1325.xyz/'
             }
         ]
