@@ -19,8 +19,8 @@ class M3U8Updater:
                 'referrer': 'https://taraftarium.co/'
             },
             {
-                'page_url': 'https://trgoals1336.xyz/channel.html?id=yayin1',
-                'referrer': 'https://trgoals1336.xyz/'
+                'page_url': 'https://trgoals1344.xyz/channel.html?id=yayin1',
+                'referrer': 'https://trgoals1344.xyz/'
             }
         ]
         self.baseurl_regex = re.compile(r'baseurl\s*=\s*["\'](https?://[^"\']+/)["\']')
